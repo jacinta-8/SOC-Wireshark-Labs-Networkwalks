@@ -8,12 +8,12 @@ These are additional Wireshark SOC labs from my Networkwalks internship. Each la
 
 | Lab | Topic | Date | Score |
 |---|---|---|---|
-| 3 | Identify the Attacker's IP | 11 Nov 2026 | 100/100 |
-| 4 | Follow TCP Stream | 11 Nov 2026 | 90/100 |
-| 5 | Follow TCP Stream, part 2 | 11 Nov 2026 | 100/100 |
-| 6 | HTTP plain text credentials | 11 Nov 2026 | 100/100 |
-| 7 | Brute force catch | 11 Nov 2026 | 100/100 |
-| 8 | VoIP call replay | 11 Nov 2026 | 100/100 |
+| 3 | Identify the Attacker's IP | 6 Nov 2026 | 100/100 |
+| 4 | Follow TCP Stream | 6 Nov 2026 | 100/100 |
+| 5 | Follow TCP Stream, part 2 | 6 Nov 2026 | 100/100 |
+| 6 | HTTP plain text credentials | 6 Nov 2026 | 100/100 |
+| 7 | Brute force catch | 6 Nov 2026 | 100/100 |
+| 8 | VoIP call replay | 6 Nov 2026 | 100/100 |
 
 ## Lab 3 – Identify the Attacker's IP
 
